@@ -1,0 +1,18 @@
+INDEX VERSION 1.130+D:\elden gecir\github\java\.metadata\.plugins\org.eclipse.jdt.core
+495363174.index
+3772135806.index
+1324501807.index
+237013899.index
+2557223725.index
+3343259002.index
+1568659901.index
+972389305.index
+1712227275.index
+3377007078.index
+3623557781.index
+1657330681.index
+2485380373.index
+2203110794.index
+2289979518.index
+2742944246.index
+3415179821.index
